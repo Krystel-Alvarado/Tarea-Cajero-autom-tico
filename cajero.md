@@ -23,7 +23,6 @@ FinProceso
 # Codigo Mermaid
 
 ```mermaid
-
 ---
 config:
   theme: neo-dark
