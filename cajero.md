@@ -1,4 +1,4 @@
-## Mi Pseudocódigo
+# Mi Pseudocódigo
 
 ```pseudocodigo
 
@@ -20,6 +20,8 @@ Proceso cajero_automatico_ka
     FinSi
 FinProceso
 
+### Mi Pseudocódigo
+```pseudocodigo
 ---
 config:
   theme: redux-dark
