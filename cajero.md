@@ -20,7 +20,6 @@ Proceso cajero_automatico_ka
     FinSi
 FinProceso
 
-<!-- Codigo Mermaid -->
 ---
 config:
   theme: redux-dark
