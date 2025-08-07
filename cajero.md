@@ -19,9 +19,11 @@ Proceso cajero_automatico_ka
         Escribir "Saldo restante: ", saldo
     FinSi
 FinProceso
+```
+# Codigo Mermaid
 
-### Mi Pseudocódigo
-```pseudocodigo
+```mermaid
+
 ---
 config:
   theme: redux-dark
