@@ -26,7 +26,7 @@ FinProceso
 
 ---
 config:
-  theme: redux-dark
+  theme: neo-dark
 ---
 flowchart TD
     A(["Start"]) --> C["Definir monto como entero"]
