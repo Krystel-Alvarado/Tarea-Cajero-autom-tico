@@ -1,4 +1,6 @@
-<!-- Mi pseudocódigo -->
+## Mi Pseudocódigo
+
+```pseudocodigo
 
 Proceso cajero_automatico_ka
     Definir monto Como Entero
