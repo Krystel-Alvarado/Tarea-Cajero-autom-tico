@@ -1,4 +1,4 @@
-```Mi pseudocódigo
+<!-- Mi pseudocódigo -->
 
 Proceso cajero_automatico_ka
     Definir monto Como Entero
@@ -18,7 +18,7 @@ Proceso cajero_automatico_ka
     FinSi
 FinProceso
 
-```Codigo Mermaid
+<!-- Codigo Mermaid -->
 ---
 config:
   theme: redux-dark
