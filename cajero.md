@@ -25,7 +25,7 @@ FinProceso
 ```mermaid
 ---
 config:
-  theme: neo-dark
+  theme: redux-dark
 ---
 flowchart TD
     A(["Start"]) --> C["Definir monto como entero"]
